@@ -1,5 +1,5 @@
 {
-    "showHitbox":"True",
+    "showHitbox":"False",
     "drawPlayer":"True",
     "drawEnemy":"True",
     "drawProj":"True",
