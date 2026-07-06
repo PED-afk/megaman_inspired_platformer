@@ -56,10 +56,10 @@ class Player(Entity):
         self.weapons={
             "Normal":{"E":-1,"name":"E. Blaster","D":1,"Cost":0,"speed":[5,0]},
             "Ice":{"E":100,"name":"Dry Ice Beam","D":1,"Cost":3,"speed":[4,0]},
-            "Fire":{"E":51,"name":"Fire Edge","D":5,"Cost":4,"speed":[0,0]},
-            "Elec":{"E":25,"name":"Elec. Shocker","D":1,"Cost":5,"speed":[0.2,0]},
-            "Earth":{"E":10,"name":"Rock Rain","D":1,"Cost":10,"speed":[2,3]},
-            "Water":{"E":1,"name":"Wave Maker","D":1,"Cost":3,"speed":[2.5,0]},
+            "Fire":{"E":100,"name":"Fire Edge","D":5,"Cost":4,"speed":[0,0]},
+            "Elec":{"E":100,"name":"Elec. Shocker","D":1,"Cost":5,"speed":[0.2,0]},
+            "Earth":{"E":100,"name":"Rock Rain","D":1,"Cost":10,"speed":[2,3]},
+            "Water":{"E":100,"name":"Wave Maker","D":1,"Cost":3,"speed":[2.5,0]},
             "Metal":{"E":100,"name":"Metal Cycler","D":1,"Cost":2,"speed":[2,2]},
             "Light":{"E":100,"name":"Camera Flash","D":1,"Cost":10,"speed":[0,0]},
             "Dark":{"E":100,"name":"Shadow Dance","D":1,"Cost":5,"speed":[0,0]}
