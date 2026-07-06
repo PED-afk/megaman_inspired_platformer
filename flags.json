@@ -1,0 +1,11 @@
+{
+    "showHitbox":"True",
+    "drawPlayer":"True",
+    "drawEnemy":"True",
+    "drawProj":"True",
+    "drawPickUp":"True",
+    "drawHUD":"True",
+    "drawPart":"True",
+    "antiFlash":"False",
+    "showOkMessages":"False"
+}
